@@ -1,0 +1,21 @@
+# Vivado generated/build output (regenerated from project sources)
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado logs, journals, backups
+*.jou
+*.log
+*.str
+*.wdb
+vivado_pid*.str
+*.backup.jou
+*.backup.log
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
